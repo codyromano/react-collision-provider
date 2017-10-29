@@ -1,0 +1,24 @@
+{
+  "name": "react-collision-provider",
+  "version": "1.0.0",
+  "description": "Simple collision detection for DOM elements using React.js",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:codyromano/react-collision-provider.git"
+  },
+  "keywords": [
+    "react",
+    "collision",
+    "detection",
+    "javascript"
+  ],
+  "author": "Cody Romano",
+  "license": "MIT"
+}
